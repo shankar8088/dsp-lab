@@ -3,7 +3,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://dsp-lab.netlify.app/</loc>
+    <loc>https://dsp-lab-manual.netlify.app/</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://dsp-lab.netlify.app/about</loc>
+    <loc>https://dsp-lab-manual.netlify.app/about</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
   <!-- DSP Lab Page -->
   <url>
-    <loc>https://dsp-lab.netlify.app/dsp-lab</loc>
+    <loc>https://dsp-lab-manual.netlify.app/dsp-lab</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -27,7 +27,7 @@
 
   <!-- Data Structures in Python Lab Page -->
   <url>
-    <loc>https://dsp-lab.netlify.app/python-lab</loc>
+    <loc>https://dsp-lab-manual.netlify.app/python-lab</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -35,7 +35,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://dsp-lab.netlify.app/contact</loc>
+    <loc>https://dsp-lab-manual.netlify.app/contact</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
